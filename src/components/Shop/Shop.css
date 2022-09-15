@@ -9,4 +9,5 @@
 .cart-container{
     text-align: center;
     border-left: 2px sold grey;
+    width: 30%;
 }
